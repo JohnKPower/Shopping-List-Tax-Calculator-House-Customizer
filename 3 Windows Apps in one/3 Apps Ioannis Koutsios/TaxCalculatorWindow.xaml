@@ -1,0 +1,177 @@
+﻿<Window x:Class="Final_Practices___Ioannis_Koutsios.TaxCalculatorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Final_Practices___Ioannis_Koutsios"
+        mc:Ignorable="d"
+        Title="TaxCalculatorWindow" Height="280" Width="400">
+    <Grid Margin="4">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="4" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="4" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <!--  Salary Details (input)  -->
+        <GroupBox Header="Salary Details">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="4" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="4" />
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="4" />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <Label Content="Amount" />
+                <TextBox x:Name="SalaryAmountTextBox" Grid.Column="2" VerticalAlignment="Center" TextChanged="SalaryAmountTextBox_TextChanged" />
+
+                <RadioButton x:Name="MonthlySalaryRadioButton" Grid.Row="2" Checked="MonthlySalaryRadioButton_Checked" Content="Monthly" />
+
+                <RadioButton x:Name="AnnualSalaryRadioButton" Grid.Row="2" Grid.Column="2" Checked="AnnualSalaryRadioButton_Checked" Content="Annual" />
+
+                <CheckBox x:Name="Has13thMonthSalaryCheckBox" Grid.Row="4" Grid.ColumnSpan="3" Checked="Has13thMonthSalaryCheckBox_Checked" Content="Has 13th Month Salary" Unchecked="Has13thMonthSalaryCheckBox_Unchecked" />
+            </Grid>
+        </GroupBox>
+
+      
+        <GroupBox Grid.Row="2" Header="Annually">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="4" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="4" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="4" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="4" />
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="4" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+             
+                <Label
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    Content="Gross" />
+                <Label
+                    x:Name="AnnualGrossValueLabel"
+                    Grid.Row="0"
+                    Grid.Column="2" />
+
+         
+                <Label
+                    Grid.Row="2"
+                    Grid.Column="0"
+                    Content="Tax" />
+                <Label
+                    x:Name="AnnualTaxValueLabel"
+                    Grid.Row="2"
+                    Grid.Column="2" />
+
+             
+                <Label
+                    Grid.Row="4"
+                    Grid.Column="0"
+                    Content="Social Insurance" />
+                <Label
+                    x:Name="AnnualSocialInsuranceValueLabel"
+                    Grid.Row="4"
+                    Grid.Column="2" />
+
+                <Label
+                    Grid.Row="6"
+                    Grid.Column="0"
+                    Content="Net" />
+                <Label
+                    x:Name="AnnualNetalueLabel"
+                    Grid.Row="6"
+                    Grid.Column="2" />
+            </Grid>
+        </GroupBox>
+
+        <GroupBox
+            Grid.Row="2"
+            Grid.Column="4"
+            Header="Monthly">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="4" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="4" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="4" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="4" />
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="4" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+          
+                <Label
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    Content="Gross" />
+                <Label
+                    x:Name="MonthlyGrossValueLabel"
+                    Grid.Row="0"
+                    Grid.Column="2" />
+
+         
+                <Label
+                    Grid.Row="2"
+                    Grid.Column="0"
+                    Content="Tax" />
+                <Label
+                    x:Name="MonthlyTaxValueLabel"
+                    Grid.Row="2"
+                    Grid.Column="2" />
+
+           
+                <Label
+                    Grid.Row="4"
+                    Grid.Column="0"
+                    Content="Social Insurance" />
+                <Label
+                    x:Name="MonthlySocialInsuranceValueLabel"
+                    Grid.Row="4"
+                    Grid.Column="2" />
+
+            
+                <Label
+                    Grid.Row="6"
+                    Grid.Column="0"
+                    Content="Net" />
+                <Label
+                    x:Name="MonthlyNetalueLabel"
+                    Grid.Row="6"
+                    Grid.Column="2" />
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>

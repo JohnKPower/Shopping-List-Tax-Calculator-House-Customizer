@@ -1,0 +1,27 @@
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\bin\Debug\net6.0-windows\Final Practices - Ioannis Koutsios.exe
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\bin\Debug\net6.0-windows\Final Practices - Ioannis Koutsios.deps.json
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\bin\Debug\net6.0-windows\Final Practices - Ioannis Koutsios.runtimeconfig.json
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\bin\Debug\net6.0-windows\Final Practices - Ioannis Koutsios.dll
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\bin\Debug\net6.0-windows\Final Practices - Ioannis Koutsios.pdb
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\Final Practices - Ioannis Koutsios.csproj.AssemblyReference.cache
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\Final Practices - Ioannis Koutsios_MarkupCompile.cache
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\Final Practices - Ioannis Koutsios_MarkupCompile.lref
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\Final Practices - Ioannis Koutsios.g.resources
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\Final Practices - Ioannis Koutsios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\Final Practices - Ioannis Koutsios.AssemblyInfoInputs.cache
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\Final Practices - Ioannis Koutsios.AssemblyInfo.cs
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\Final Practices - Ioannis Koutsios.csproj.CoreCompileInputs.cache
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\Final Practices - Ioannis Koutsios.dll
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\refint\Final Practices - Ioannis Koutsios.dll
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\Final Practices - Ioannis Koutsios.pdb
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\Final Practices - Ioannis Koutsios.genruntimeconfig.cache
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\ref\Final Practices - Ioannis Koutsios.dll
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\HouseCustomizerWindow.g.cs
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\ShoppingListWindow.g.cs
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\TaxCalculatorWindow.g.cs
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\HouseCustomizerWindow.baml
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\ShoppingListWindow.baml
+C:\Users\giann\OneDrive\Υπολογιστής\Visual Programming\Final Practices - Ioannis Koutsios\Final Practices - Ioannis Koutsios\obj\Debug\net6.0-windows\TaxCalculatorWindow.baml
